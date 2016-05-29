@@ -15,3 +15,8 @@
       #endif
   - 2h45
   - Emanuel
+
+- Suivi de la première partie de "Scrolling avec SDL" (Scrolling de la caméra) sur le site "http://loka.developpez.com/tutoriel/sdl/scrolling/"
+ qui m'a permis de faire bouger un point à travers une image d'arrière plan de n'importe quelle taille.
+ -2h
+ - Pablo
