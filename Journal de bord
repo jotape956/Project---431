@@ -15,3 +15,9 @@
       #endif
   - 2h45
   - Emanuel
+
+- Suivi de la partie "Scrolling avec SDL" sur le site "http://loka.developpez.com/tutoriel/sdl/scrolling/". Ce tutoriel m'a permis de
+déplacer une image à travers un environnement de n'importe quelle taille, vu qu'avant, on pouvait se déplacer que dans un environnement
+de taille fixe.
+  - 2h
+  - Pablo
