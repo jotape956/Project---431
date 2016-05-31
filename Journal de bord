@@ -16,6 +16,12 @@
   - 2h45
   - Emanuel
 
+- Suivi de la première partie du tutoriel sur le "Scrolling" (Scrolling de la caméra), 
+  "http://loka.developpez.com/tutoriel/sdl/scrolling/#LXIV-2", qui m'a permis de faire bouger un point dans une image de n'importe 
+  quelle taille.
+  - 2h
+  - Pablo
+  
 30.05.2016
 - Lecture de deux tutoriels sur l'intelligence artificielle dans les jeux vidéos de manière générale afin d'avoir une vue d'ensemble sur 
   le sujet et de savoir comment l'aborder de la bonne manière. Ils m'ont appris qu'une IA avait différentes phases (Passive, traque,
@@ -36,9 +42,20 @@
   - 3h
   - Emanuel
 
+- Lecture de la première partie du tutoriel sur les animations sur le site "http://loka.developpez.com/tutoriel/sdl/animation/", 
+  ce tutoriel m'a permis de mieux comprendre le concept des animations en utilisant une feuille de sprite.
+  - 1h30
+  - Pablo
+  
 31.05.2016
 - Création d'un début de fonction permettant de faire se déplacer un élément en carré dans la map grâce à un changement de direction quand 
   sa position sur l'axe X ou Y dépasse une certaine valeure. La fonction n'est pas encore tout à fait finie mais il est désormais possible
   de choisir la direction de déplacement et un point d'arrêt.
   - 30 minutes
   - Damien
+
+- Suivi de la deuxième et dernière partie du tutoriel sur les animations. Après la lecture de ce chapitre, j'ai essayé d'implémenter 
+  la même technique dans notre projet. J'ai recontré quelques inconvénients par rapport à la taille de l'image mais grâce à l'aide de 
+  mes camarades j'ai réussi à comprendre et on a maintenant un personnage qui peut se déplacer vers la gauche et vers la droite.
+  - 1h
+  - Pablo
